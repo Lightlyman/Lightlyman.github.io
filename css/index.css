@@ -357,6 +357,11 @@ hr:before,
 }
 canvas:not(#ribbon-canvas),
 #web_bg {
+  background: url(https://eternitywith.gitee.io/blog-image-bed/gallery/allBlogImage/7.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
   -webkit-animation: to_show 4s;
   -moz-animation: to_show 4s;
   -o-animation: to_show 4s;
