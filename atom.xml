@@ -3,11 +3,11 @@
   <title>风吹湖畔的小屋</title>
   
   
-  <link href="https://github.com/Lightlyman/Lightlyman.github.io/atom.xml" rel="self"/>
+  <link href="https://lightlyman.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Lightlyman/Lightlyman.github.io/"/>
+  <link href="https://lightlyman.github.io/"/>
   <updated>2022-06-13T13:03:47.679Z</updated>
-  <id>https://github.com/Lightlyman/Lightlyman.github.io/</id>
+  <id>https://lightlyman.github.io/</id>
   
   <author>
     <name>风吹湖畔</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇测试博客</title>
-    <link href="https://github.com/Lightlyman/Lightlyman.github.io/2022/06/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://github.com/Lightlyman/Lightlyman.github.io/2022/06/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://lightlyman.github.io/2022/06/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://lightlyman.github.io/2022/06/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-06-13T12:55:34.000Z</published>
     <updated>2022-06-13T13:03:47.679Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="本篇博客文章仅做测试用途" scheme="https://github.com/Lightlyman/Lightlyman.github.io/tags/%E6%9C%AC%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%BB%85%E5%81%9A%E6%B5%8B%E8%AF%95%E7%94%A8%E9%80%94/"/>
+    <category term="本篇博客文章仅做测试用途" scheme="https://lightlyman.github.io/tags/%E6%9C%AC%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%BB%85%E5%81%9A%E6%B5%8B%E8%AF%95%E7%94%A8%E9%80%94/"/>
     
   </entry>
   
